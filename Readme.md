@@ -15,4 +15,4 @@ Configuration takes place by using environment variables:
 
 ## Caveats
 
-If you are running InfluxDB as a Docker container ensure that the collectd API is enabled by on default port 25826 and setting the environment variable. See (https://github.com/mwaeckerlin/collectd)[https://github.com/mwaeckerlin/collectd].
+If you are running InfluxDB as a Docker container ensure that the collectd API is enabled by on default port 25826 and setting the environment variable. See [https://github.com/mwaeckerlin/collectd](https://github.com/mwaeckerlin/collectd).
